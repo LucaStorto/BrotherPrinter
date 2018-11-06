@@ -1,4 +1,4 @@
-package cordova.plugin.brotherPrinter;
+package cordova.plugin.brotherprinter;
 
 import java.util.List;
 import java.util.Collections;

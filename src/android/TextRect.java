@@ -1,4 +1,4 @@
-package cordova.plugin.brotherPrinter;
+package cordova.plugin.brotherprinter;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;
