@@ -7,7 +7,7 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="BrotherPrinter">
-                <param name="android-package" value="cordova.plugin.brotherprinter.BrotherPrinter" />
+                <param name="android-package" value="cordova.plugin.brotherprinter" />
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml" />
