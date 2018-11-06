@@ -12,6 +12,7 @@
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml" />
         <source-file src="src/android/BrotherPrinter.java" target-dir="src/cordova/plugin/brotherprinter/BrotherPrinter" />
+        <source-file src="src/android/TextRect.java" target-dir="src/cordova/plugin/brotherprinter/BrotherPrinter" />
 
         <source-file src="src/android/libs/BrotherPrintLibrary.jar" target-dir="libs" />
         <source-file src="src/android/libs/armeabi/libAndrJFPDFEMB.so" target-dir="libs/armeabi" />
