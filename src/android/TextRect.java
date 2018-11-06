@@ -1,4 +1,4 @@
-package com.momzor.cordova.plugin.brotherPrinter;
+package cordova.plugin.brotherPrinter;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;
